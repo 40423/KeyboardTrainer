@@ -1,0 +1,41 @@
+# Сборка
+build/
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+*.ilk
+
+# База данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Временные файлы
+*.tmp
+*.log
+app.log
+
+# Настройки IDE
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Резервные копии
+backup/
+*.bak
+# Coverage
+*.gcno
+*.gcda
+*.gcov
+tests/*.exe
+
+# VS Code.vscode/
